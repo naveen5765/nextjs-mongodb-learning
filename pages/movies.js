@@ -3,7 +3,7 @@ import clientPromise from "../lib/mongodb";
 export default function Movies({ movies }) {
   return (
     <div>
-      <h1>Top 20 Movies of All Time</h1>
+      <h1>Hi Naven! Check How fast Vercel is</h1>
       <p>
         <small>(According to Metacritic)</small>
       </p>
